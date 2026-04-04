@@ -1,6 +1,8 @@
 # 🎓 Student Academic Performance Dashboard
 
-This project is a Streamlit-based web application used to analyze and predict student academic performance using subject marks and data visualization.
+A Streamlit-based dashboard project for analyzing student academic performance using data visualization and basic machine learning.
+
+This project helps users understand how different factors such as gender, parental education, lunch type, ethnicity, and test preparation courses affect student scores.
 
 ## Features
 
